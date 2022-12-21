@@ -1,0 +1,27 @@
+
+body {background-color: rgb(80, 194, 255);}
+h1{
+    
+    color: black;
+    font: Andale Mono, monospace;
+
+}
+p{
+    color: black;
+    font: Andale Mono, monospace;
+}
+input{
+  background-color: white;
+}
+form{
+  border: 1px solid black;
+  box-sizing: border-box;
+  
+  padding: 10px;
+}
+  
+  
+
+ 
+
+  
